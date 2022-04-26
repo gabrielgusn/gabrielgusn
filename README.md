@@ -1,11 +1,12 @@
 
-### Em desenvolvimento 🌱
+<img src="em_dev.gif">
+<!-- ### Em desenvolvimento 🌱 -->
 
-<div style="display: flex; margin: 0px; padding: 0px; justify-content: space-evenly; flex-wrap:wrap">
+<!-- <div style="display: flex; margin: 0px; padding: 0px; justify-content: space-evenly; flex-wrap:wrap">
     <img width="98%" style="margin: 20px 0px" src="github-user-contribution.svg">
     <img width="41.9%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=merko&layout=compact"/>
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=gabrielgusn&show_icons=true&theme=merko"/>
-</div>
+</div> -->
 
 <!--
 **gabrielgusn/gabrielgusn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
