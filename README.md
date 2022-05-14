@@ -1,5 +1,16 @@
 
-<img src="loading1.gif">
+<img width="300px" style="margin: 0 100px" src="gifs/welcome1.gif">
+
+<img src="gifs/hr1.gif">
+
+## Em desenvolvimento 🌱
+
+<img src="gifs/hr1.gif">
+
+<img width="120px" height="44px" src="gifs/notepad.gif">
+<img width="120px" height="44px" src="gifs/Iexplorer.gif">
+<img width="120px" height="44px" src="gifs/padvise.gif">
+
 <!-- ### Em desenvolvimento 🌱 -->
 
 <!-- <div style="display: flex; margin: 0px; padding: 0px; justify-content: space-evenly; flex-wrap:wrap">
