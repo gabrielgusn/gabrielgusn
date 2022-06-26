@@ -9,7 +9,6 @@
 
 <img width="120px" height="44px" src="gifs/notepad.gif">
 <img width="120px" height="44px" src="gifs/Iexplorer.gif">
-<img width="120px" height="44px" src="gifs/padvise.gif">
 
 <!-- ### Em desenvolvimento 🌱 -->
 
