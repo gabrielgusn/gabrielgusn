@@ -1,14 +1,14 @@
 
 <img width="300px" style="margin: 0 100px" src="gifs/welcome1.gif">
 
-<img src="gifs/hr1.gif">
+<!-- <img src="gifs/hr1.gif"> -->
 
 ## Em desenvolvimento 🌱
 
-<img src="gifs/hr1.gif">
+<!-- <img src="gifs/hr1.gif"> -->
 
 <img width="120px" height="44px" src="gifs/notepad.gif">
-<img width="120px" height="44px" src="gifs/Iexplorer.gif">
+<!-- <img width="120px" height="44px" src="gifs/Iexplorer.gif"> -->
 
 <!-- ### Em desenvolvimento 🌱 -->
 
